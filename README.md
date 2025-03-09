@@ -35,3 +35,9 @@ We use the **LandslideSegNet dataset**, which contains **3960 high-resolution im
 | **U-Net**   | 96.7%    | 70.2%     | 34%    | 45.8%      | 27.8% |
 | **FCN-8**   | 96.2%    | 64%       | 35.4%  | 41.15%     | 28.16% |
 | **DeepLabV3+** | 90.4% | 0%       | 0%     | 0%         | 0% |
+
+
+
+## Dataset
+https://www.kaggle.com/datasets/niyarrbarman/landslide-divided/data
+
